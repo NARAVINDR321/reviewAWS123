@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'reviewazure123'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6b0570c1edfe4509aeced7338bd6920f }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d482693d404143cf91cce015b2110fba }}
